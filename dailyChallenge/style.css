@@ -1,0 +1,16 @@
+:root {
+  --prim: (rgb(230, 146, 146));
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: rgb(211, 250, 237);
+}
+
+img {
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+}
